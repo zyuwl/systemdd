@@ -15,7 +15,9 @@ tiny10
 bash InstallNET.sh -dd "https://dl.lamp.sh/vhd/tiny10_23h2.xz"
 
 远程桌面的默认用户名和密码
+
 用户名: administrator
+
 密码: Teddysun.com
 
 
